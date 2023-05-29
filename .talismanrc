@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: .github/workflows/hawkeye.yml
+  checksum: f04d792348defd25057fc3bf0896081029dccd70df23457ebfabf0e27ce8cc0a
+version: ""
